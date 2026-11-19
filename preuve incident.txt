@@ -1,3 +1,4 @@
 bonjour GitHub
 UPDATE 2
 ajout INC-20261116-CDFBCC
+git commit -m "fix: décrire le correctif [INC-20261104-48FC32]"
